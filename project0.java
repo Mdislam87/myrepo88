@@ -68,7 +68,7 @@ class Encrypt_Decrypt{
 	      
 	}
 }
-
+//this is main part//
 public class Cipher {
 
 	public static void main(String[] args) {
